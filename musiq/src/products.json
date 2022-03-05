@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "WH-1000XM4",
+      "description": "Wireless Over-ear Industry Leading Noise Canceling Headphones with Microphone",
+      "price": 349.99,
+      "photo": "N/A",
+      "wireless": true,
+      "type": "over-ear"
+    }
+  ]
+}

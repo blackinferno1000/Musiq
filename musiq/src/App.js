@@ -1,11 +1,10 @@
 import ShoppingCart from "./components/ShoppingCart";
+import { Provider } from "./Provider";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <ShoppingCart />
-    </div>
+    <>
+      <Provider></Provider>
+    </>
   );
 }
-
-export default App;
